@@ -3,7 +3,7 @@ Open Science Community Groningen
 
 This repository hosts website of the Open Science Community Groningen:
 
-[https://openscience-groningen.nl/](https://openscience-groningen.nl/)
+[http://openscience-groningen.nl/](https://openscience-groningen.nl/)
 
 ## Contributing
 
